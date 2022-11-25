@@ -6,8 +6,6 @@ import android.widget.RadioButton;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class RadioButtonDemo extends AppCompatActivity {
-    RadioButton rb;
-
     @Override
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
